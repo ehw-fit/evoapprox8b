@@ -1,7 +1,9 @@
 # EvoApprox8b
 ###### library of approximate arithmetic circuits
 This is a GitHub repository of EvoApprox8B library. The library consists of hardware and software models of unsigned approximate 8-bit [adders](adders_8/README.md) (486 circuits) and [multipliers](multipliers_8/README.md) (505 circuits) that are designed to be easily used in arbitrary application. 
-<font color=red>The library was replaced by new version.</font> The new version can be found on [our websites](https://ehw.fit.vutbr.cz/evoapprox)
+
+## The library was replaced by new version.
+The new version can be found on [our websites](https://ehw.fit.vutbr.cz/evoapprox)
 
 ![Library usage](fig/library.png)
 

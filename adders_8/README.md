@@ -1,8 +1,28 @@
 
 8-bit unsigned adders
 ==================
+## The library was replaced by new version.
+The new version can be found on [our websites](https://ehw.fit.vutbr.cz/evoapprox)
 
-<font color=red>The library was replaced by new version.</font> The new version can be found on [our websites](https://ehw.fit.vutbr.cz/evoapprox)
+## Reference
+This library is licenced under [MIT licence](LICENCE.md). If you use the library in your research, please refer the following paper:
+
+V. Mrazek, R. Hrbacek, Z. Vasicek and L. Sekanina, EvoApprox8b: Library of approximate adders and multipliers for circuit design and benchmarking of approximation methods. Design, Automation & Test in Europe Conference & Exhibition (DATE), 2017, Lausanne, 2017, pp. 258-261. doi: [10.23919/DATE.2017.7926993](https://dx.doi.org/10.23919/DATE.2017.7926993) 
+
+```bibtex
+@INPROCEEDINGS{evoapprox16,
+    author={V. Mrazek and R. Hrbacek and Z. Vasicek and L. Sekanina}, 
+    booktitle={Design, Automation Test in Europe Conference Exhibition (DATE), 2017}, 
+    title={EvoApprox8b: Library of approximate adders and multipliers for circuit design and benchmarking of approximation methods}, 
+    year={2017}, 
+    volume={}, 
+    number={}, 
+    pages={258-261}, 
+    doi={10.23919/DATE.2017.7926993}, 
+    ISSN={1558-1101}, 
+    month={March},}
+```
+
  
 
 Description
